@@ -1,0 +1,88 @@
+#top{
+    background-color: #fff;
+    padding: 16px 78px;
+}
+#edyoda{
+    display: inline;
+    font-size: 30px;
+    font-weight: 900;
+    color: #0084ff;    
+}
+#stories{
+    margin: 0;
+    display: inline;
+    font-style: italic;
+    color: black;
+}
+#explore{
+    display: inline;
+    margin-left: 100px;
+}
+select{
+    border:none;
+    outline: none;
+}
+#back{
+    background-color: #0084ff;
+    color: white;
+}
+#main{
+    background-color: #f4f7fa;
+    
+}
+.dis{
+    margin-left: 160px;
+}
+.margin{
+    display: fixed;
+}
+
+#filter{
+    display: inline;
+}
+.button{
+    border: 1px solid #0084ff;
+    padding: 6px 14px;
+    border-radius: 12px;
+    margin-top: 15px;
+    font-size: 15px;
+    display: inline-block;
+    color: #0084ff;
+}
+.card{
+    transition: 0.3s;
+    border: 1px solid rgb(192, 238, 241);
+    border-radius: 10px;
+    display: inline-block;
+    margin-top: 12px;
+    
+    
+}
+.container {
+    padding: 2px 16px;
+  }
+.pic{
+    width: 320px;
+    height: 196px;
+    margin: 10px;
+}
+h4{
+    color: black;
+    margin-bottom: 15px;
+}
+span{
+    color: #0088ff;
+}
+p{
+    color: gray;
+}
+.card a{
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+}
+#footer{
+    background-color: #172146;
+    padding: 18px 16%;
+}
